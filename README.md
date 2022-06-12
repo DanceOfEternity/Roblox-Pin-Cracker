@@ -2,6 +2,7 @@
 # Roblox Pin Cracker
 
 An optimized pin cracker.
+**! USE FOR ACCOUNT RECOVERING.**
 
 # How To Use?
 
